@@ -1,0 +1,8 @@
+{
+  "bg_kernel": 41,
+  "dark_strong": 60,
+  "disp_strong": 45,
+  "disp_weak": 14,
+  "min_solidity": 0.4,
+  "score_thresh": 0.5
+}

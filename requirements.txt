@@ -1,0 +1,4 @@
+opencv-python>=4.8
+numpy>=1.24
+# optional: live NMEA GPS receiver (--gps-serial)
+# pyserial>=3.5

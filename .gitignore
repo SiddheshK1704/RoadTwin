@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# Dataset (218 MB, download separately into pothole600/)
+pothole600/
+
+# Run outputs: twin.geojson, map.html, recordings, overlays
+out/
+out_*/
+
+# Synthetic demo data, regenerate with: python tools/make_synthetic_video.py
+data/
+
+# Local calibration files and footage
+*_calib.json
+*.mp4
+*.avi
+*.mov
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
